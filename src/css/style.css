@@ -1,18 +1,14 @@
-body {
-background-color: #000;
-}
-/* gonna be lazy a little and just give the background color to the entire document for this */
 p {
-color:#fff
+color: lightgreen
 }
 
 h1 {
-color: #fff
+color: darkgreen
 }
 
 .container {
-width: 600px;
-/* background-color: cornsilk; */
+width: 500px;
+background-color: cornsilk;
 margin: auto;
 padding: 20px;
 }
