@@ -49,3 +49,22 @@ img {
     text-decoration: none;
     font-weight: bold;
 }
+.topnav a:link {
+    color: #a5f5ff
+}
+
+/* note to self: a:visited does not work in live preview */
+/* I suppose browsers store it in cache, and a:visited just reads from that */
+/* would explain this as live preview simply not having any type of cache */
+
+.topnav a:visited {
+    color: #696969
+}
+
+.topnav a:hover {
+    color: #ca4a4a
+}
+
+.topnav a:active {
+    color: #5a5a5a
+}
