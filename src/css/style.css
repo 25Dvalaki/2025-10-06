@@ -69,3 +69,20 @@ img {
 .topnav a:active {
     color: #5a5a5a
 }
+
+
+.sidebar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    float: right;
+    background-color:#333333;
+}
+
+.sidebar a {
+    display: block;
+    color: #a5f5ff;
+    padding: 8px 16px;
+    text-decoration: none;
+}
