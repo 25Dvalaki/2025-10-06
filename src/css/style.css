@@ -73,7 +73,7 @@ img {
 
 .sidebar {
     list-style-type: none;
-    margin: 0;
+    margin: 5px;
     padding: 0;
     width: 150px;
     float: right;
