@@ -58,15 +58,15 @@ img {
 /* I suppose browsers store it in cache, and a:visited just reads from that */
 /* would explain this as live preview simply not having any type of cache */
 
-.topnav a:visited {
+.topnav a:visited, .sidebar a:visited {
     color: #696969
 }
 
-.topnav a:hover {
+.topnav a:hover, .sidebar a:hover {
     color: #ca4a4a
 }
 
-.topnav a:active {
+.topnav a:active, .sidebar a:active {
     color: #5a5a5a
 }
 
